@@ -1,2 +1,2 @@
 # Geometric-Reconstruction-of-the-Pearl-700-High-Bypass-Turbofan-Engine-Architecture
-Reconstructed the Rolls-Royce Pearl 700 turbofan engine in Fusion 360, modeling all major components to support propulsion system visualization and geometric analysis.
+This project involved reverse-engineering the Rolls-Royce Pearl 700 turbofan engine using Fusion 360 to create a detailed 3D CAD model. The design includes all major components—from the diffuser, fan, 4 stage LPC,  10 stage HPC, combustion chamber, 2 stage HPT, 4 LPT, and nozzle) to support design visualization and deepen understanding of aircraft propulsion systems.
